@@ -1,2 +1,2 @@
 # audio_classification
-This is a project to cassify audio
+This is a project to classify audio
